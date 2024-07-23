@@ -1,0 +1,65 @@
+[
+  {
+    "header": "Successful in Queue",
+    "elapsedTime": "6hr",
+    "text": "Your information, documents, and payment have all been processed and approved. You're all set!",
+    "type": "positive",
+    "read": false
+  },
+  {
+    "header": "Unaligned Car",
+    "elapsedTime": "2d",
+    "text": "Warning! Your car was spotted sticking into a different lane. Be sure to fully park in your own spot and double-check if you may be obstructing others' spots.",
+    "type": "warning",
+    "read": false
+  },
+  {
+    "header": "Drivers License Sent Back",
+    "elapsedTime": "50d",
+    "text": "Your drivers license was sent back due to one of the following reasons: fake license, bad photo, missing information. Please be sure to resend your license.",
+    "type": "negative",
+    "read": false
+  },
+  {
+    "header": "Successful in Queue",
+    "elapsedTime": "6hr",
+    "text": "Your information, documents, and payment have all been processed and approved. You're all set!",
+    "type": "positive",
+    "read": false
+  },
+  {
+    "header": "Unaligned Car",
+    "elapsedTime": "2d",
+    "text": "Warning! Your car was spotted sticking into a different lane. Be sure to fully park in your own spot and double-check if you may be obstructing others' spots.",
+    "type": "warning",
+    "read": false
+  },
+  {
+    "header": "Drivers License Sent Back",
+    "elapsedTime": "50d",
+    "text": "Your drivers license was sent back due to one of the following reasons: fake license, bad photo, missing information. Please be sure to resend your license.",
+    "type": "negative",
+    "read": false
+  },
+  {
+    "header": "Successful in Queue",
+    "elapsedTime": "6hr",
+    "text": "Your information, documents, and payment have all been processed and approved. You're all set!",
+    "type": "positive",
+    "read": false
+  },
+  {
+    "header": "Unaligned Car",
+    "elapsedTime": "2d",
+    "text": "Warning! Your car was spotted sticking into a different lane. Be sure to fully park in your own spot and double-check if you may be obstructing others' spots.",
+    "type": "warning",
+    "read": false
+  },
+  {
+    "header": "Drivers License Sent Back",
+    "elapsedTime": "50d",
+    "text": "Your drivers license was sent back due to one of the following reasons: fake license, bad photo, missing information. Please be sure to resend your license.",
+    "type": "negative",
+    "read": false
+  }
+]
